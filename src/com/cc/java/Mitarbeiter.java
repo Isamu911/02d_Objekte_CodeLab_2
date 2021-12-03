@@ -11,7 +11,7 @@ public class Mitarbeiter {
         this.firstName = firstName;
         this.function = function;
         this.beginningYear = beginningYear;
-
+        
     }
     
 
