@@ -45,7 +45,7 @@ public class App {
         output("Funktion: " + worker4.getFunction());
         output("Eintrittsjahr: " + worker4.getBeginningYear());
 
-		output("------------------");
+		
 
 
 	}
