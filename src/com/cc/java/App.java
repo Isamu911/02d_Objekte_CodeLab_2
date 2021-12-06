@@ -3,7 +3,7 @@ package com.cc.java;
 public class App {
 
 	public static void main(String[] args) {
-		// **Name/Vorname/Funktion/Eintrittsjahr**
+		
 		
 		Mitarbeiter worker1 = new Mitarbeiter("Duck", "Donald", "Schleifer", 2001);
 	
